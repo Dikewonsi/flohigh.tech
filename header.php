@@ -2,8 +2,8 @@
          <div class="container-fluid m-pad">
             <div class="menu-header">
                <div class="dsk-logo"><a class="nav-brand" href="./">
-                  <img src="images/flohigh-logo.png" alt="Logos" class="mega-white-logo"/>
-                  <img src="images/dark-logo.png" alt="Logo" class="mega-darks-logo"/>
+                  <img src="images/flohigh-logo.png" style="margin-left:-30px;" alt="Logos" class="mega-white-logo"/>
+                  <img src="images/dark-logo.png" style="margin-left:-30px;" alt="Logo" class="mega-darks-logo"/>
                   </a>
                </div>
                <div class="custom-nav" role="navigation">
@@ -27,7 +27,7 @@
               <!-- mobile + desktop - sidebar menu- dark mode witch and button -->
               <ul class="nav-list right-end-btn">                        
               <li class="hidemobile"><a data-bs-toggle="offcanvas" href="#offcanvasExample" class="btn-round- btn-br bg-btn2"><i class="fas fa-phone-alt"></i></a></li>              
-              <li class="hidedesktop darkmodeswitch"><div class="switch-wrapper"> <label class="switch" for="niwax"> <input type="checkbox" id="niwax"/>  <span class="slider round"></span> </label> </div> </li> 
+              <li class="hidedesktop darkmodeswitch"><div class="switch-wrapper"> <label class="switch" for=""> <input type="checkbox" id="niwax"/>  <span class="slider round"></span> </label> </div> </li> 
               <li class="hidedesktop"><a data-bs-toggle="offcanvas" href="#offcanvasExample" class="btn-round- btn-br bg-btn2"><i class="fas fa-phone-alt"></i></a></li>            
               <li class="navm- hidedesktop"> <a class="toggle" href="#"><span></span></a></li>
             </ul>
@@ -75,5 +75,4 @@
                   </li>                 
                </ul>
             </nav>
-         </div>
       </header>  

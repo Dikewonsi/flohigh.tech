@@ -40,7 +40,7 @@
             <div class="row">
                <div class="col-lg-5">
                   <div class="hero-heading-sec">
-                     <h2 class="wow fadeIn" data-wow-delay="0.3s"><span>Web.</span> <span>Mobile.</span> <span>Graphic.</span> <span>Marketing.</span></h2>
+                     <h2 class="wow fadeIn" data-wow-delay="0.3s"><span>Web.</span> <span>Mobile.</span> <span>Graphic.</span> <span>Branding.</span> <span>Marketing.</span></h2>
                      <p class="wow fadeIn" data-wow-delay="0.6s">Website and App development solutions for transforming your ideas into innovating businesses.</p>
                      <a href="services.php" class="niwax-btn2 wow fadeIn"  data-wow-delay="0.8s">View Our Services <i class="fas fa-chevron-right fa-ani"></i></a>
                      <div class="awards-block-tt  wow fadeIn" data-wow-delay="1s"><img src="images/hero/awards-logo.png" alt="awards-logo" class="img-fluid"/></div>

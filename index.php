@@ -42,80 +42,70 @@
                   <div class="hero-heading-sec">
                      <h2 class="wow fadeIn" data-wow-delay="0.3s"><span>Web.</span> <span>Mobile.</span> <span>Graphic.</span> <span>Branding.</span> <span>Marketing.</span></h2>
                      <p class="wow fadeIn" data-wow-delay="0.6s">Website and App development solutions for transforming your ideas into innovating businesses.</p>
-                     <a href="services.php" class="niwax-btn2 wow fadeIn"  data-wow-delay="0.8s">View Our Services <i class="fas fa-chevron-right fa-ani"></i></a>
+                     <a href="our-services.php" class="niwax-btn2 wow fadeIn"  data-wow-delay="0.8s">View Our Services <i class="fas fa-chevron-right fa-ani"></i></a>
                      <div class="awards-block-tt  wow fadeIn" data-wow-delay="1s"><img src="images/hero/awards-logo.png" alt="awards-logo" class="img-fluid"/></div>
                   </div>
                </div>
                <div class="col-lg-7">
                   <div class="hero-content-sec wow fadeIn" data-wow-delay="0.8s">
-                     <div class="video-intro-pp"><a class="video-link play-video" href="https://www.youtube.com/watch?v=SZEflIVnhH8?autoplay=1&amp;rel=0"><span class="triangle-play"></span></a></div>
+                     <!-- <div class="video-intro-pp"><a class="video-link play-video" href="https://www.youtube.com/watch?v=SZEflIVnhH8?autoplay=1&amp;rel=0"><span class="triangle-play"></span></a></div> -->
                      <div class="title-hero-oth">
-                        <p>We design digital solutions <span>for brands and companies</span></p>
+                        <p>We provide digital solutions <span>for brands and companies</span></p>
                      </div>
                   </div>
                   <div class="hero-right-scmm">
                      <div class="hero-service-cards wow fadeInRight" data-wow-duration="2s">
                         <div class="owl-carousel service-card-prb">
-                           <div class="service-slide card-bg-a" data-tilt data-tilt-max="10" data-tilt-speed="1000">
-                              <a href="#">
+                           <div class="service-slide card-bg-d" data-tilt data-tilt-max="10" data-tilt-speed="1000">
+                              <a href="#">                                 
                                  <div class="service-card-hh">
-                                    <div class="image-sr-mm">
-                                       <img alt="custom-sport" src="images/service/vr.png">
+                                    <div class="image-sr-mm" style="margin-bottom:-100px; margin-top:100px;">
+                                       <img alt="custom-sport" src="images/solutions/world-wide-web.png" width="20px;">
                                     </div>
-                                    <div class="title-serv-c"><span>VR</span> Solution</div>
-                                 </div>
-                              </a>
-                           </div>
-                           <div class="service-slide card-bg-b" data-tilt data-tilt-max="10" data-tilt-speed="1000">
-                              <a href="#">
-                                 <div class="service-card-hh">
-                                    <div class="image-sr-mm">
-                                       <img alt="custom-sport" src="images/service/app-develop.png">
-                                    </div>
-                                    <div class="title-serv-c"><span>Custom</span> App Solution</div>
-                                 </div>
-                              </a>
-                           </div>
-                           <div class="service-slide card-bg-c" data-tilt data-tilt-max="10" data-tilt-speed="1000">
-                              <a href="#">
-                                 <div class="service-card-hh">
-                                    <div class="image-sr-mm">
-                                       <img alt="custom-sport" src="images/service/startup.png">
-                                    </div>
-                                    <div class="title-serv-c"><span>Startup</span> Solution</div>
+                                    <div class="title-serv-c"><span>Web Design</span> Solutions</div>
                                  </div>
                               </a>
                            </div>
                            <div class="service-slide card-bg-d" data-tilt data-tilt-max="10" data-tilt-speed="1000">
                               <a href="#">
                                  <div class="service-card-hh">
-                                    <div class="image-sr-mm">
-                                       <img alt="custom-sport" src="images/service/car-rental.png">
+                                    <div class="image-sr-mm" style="margin-bottom:-100px; margin-top:100px;">
+                                       <img alt="custom-sport" src="images/solutions/mobile-development.png">
                                     </div>
-                                    <div class="title-serv-c"><span>Car</span> Rental Solution</div>
+                                    <div class="title-serv-c"><span>Mobile</span> App Solutions</div>
                                  </div>
                               </a>
                            </div>
-                           <div class="service-slide card-bg-e" data-tilt data-tilt-max="10" data-tilt-speed="1000">
+                           <div class="service-slide card-bg-d" data-tilt data-tilt-max="10" data-tilt-speed="1000">
                               <a href="#">
                                  <div class="service-card-hh">
-                                    <div class="image-sr-mm">
-                                       <img alt="custom-sport" src="images/service/marketing.png">
+                                    <div class="image-sr-mm" style="margin-bottom:-100px; margin-top:100px;">
+                                       <img alt="custom-sport" src="images/solutions/branding.png">
                                     </div>
-                                    <div class="title-serv-c"><span>Marketing</span> Solution</div>
+                                    <div class="title-serv-c"><span>Branding</span> Solutions</div>
                                  </div>
                               </a>
                            </div>
-                           <div class="service-slide card-bg-f" data-tilt data-tilt-max="10" data-tilt-speed="1000">
+                           <div class="service-slide card-bg-d" data-tilt data-tilt-max="10" data-tilt-speed="1000">
                               <a href="#">
                                  <div class="service-card-hh">
-                                    <div class="image-sr-mm">
-                                       <img alt="custom-sport" src="images/service/ewallet.png">
+                                    <div class="image-sr-mm" style="margin-bottom:-100px; margin-top:100px;">
+                                       <img alt="custom-sport" src="images/solutions/graphic-design.png">
                                     </div>
-                                    <div class="title-serv-c"><span>e-Wallet</span> Solution</div>
+                                    <div class="title-serv-c"><span>Graphic Design</span> Solutions</div>
                                  </div>
                               </a>
                            </div>
+                           <div class="service-slide card-bg-d" data-tilt data-tilt-max="10" data-tilt-speed="1000">
+                              <a href="#">
+                                 <div class="service-card-hh">
+                                    <div class="image-sr-mm" style="margin-bottom:-100px; margin-top:100px;">
+                                       <img alt="custom-sport" src="images/solutions/megaphone.png">
+                                    </div>
+                                    <div class="title-serv-c"><span>Marketing</span> Solutions</div>
+                                 </div>
+                              </a>
+                           </div>                           
                         </div>
                      </div>
                   </div>
@@ -131,12 +121,12 @@
                <div class="col-lg-10">
                   <div class="common-heading">
                      <span>We Are Creative Agency</span>
-                     <h1 class="mb30"><span class="text-second">Top-rated</span> Web And Mobile App Development Company</h1>
-                     <p>Lorem Ipsum is <span class="text-radius text-light text-animation bg-b">simply dummy</span> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type
-                        specimen book. <span class="text-bold">Lorem Ipsum</span> is simply dummy text of the printing and typesetting industry. <span class="text-bold">Lorem Ipsum </span> is simply dummy text of the printing and typesetting industry.
+                     <h1 class="mb30"><span class="text-second" style="color:#D45F2E;">Top-rated</span> Web And Mobile App Development Company</h1>
+                     <p>
+                     At Flohigh innovation meets excellence in the digital realm. Founded with a vision to revolutionize the way businesses leverage technology, we are a dynamic web agency dedicated to empowering brands and organizations with cutting-edge digital solutions.
                      </p>
                      <h3 class="mt30 mb30">Big Ideas, creative people, new technology.</h3>
-                     <p>Lorem Ipsum is <span class="text-bold">simply dummy</span> text of the printing and typesetting industry. Lorem Ipsum has been the industry's specimen book. Lorem Ipsum is simply dummy text of the <span class="text-bold">printing</span> and typesetting industry. <span class="text-bold">Lorem Ipsum is simply</span> dummy text of the printing and typesetting industry. is simply dummy text of the printing and typesetting industry. </p>
+                     <p>At Flohigh Technology, we believe that every business deserves to thrive in the digital age. Our journey began with a passion for creativity and a commitment to delivering exceptional results. Over the years, we have evolved into a trusted partner for businesses of all sizes, offering a comprehensive suite of services tailored to meet the diverse needs of our clients.</p>
                   </div>
                </div>
             </div>
@@ -149,79 +139,74 @@
             <div class="row upset">
                <div  data-tilt data-tilt-max="5" data-tilt-speed="1000" class="col-lg-6-cus wow fadeInUp" data-wow-delay=".2s">
                   <div class="service-sec-brp srvc-bg-nx bg-gradient13 text-w">
-                     <h4 class="mb10">INTEGRATED SERVICES</h4>
-                     <p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
-                     <a href="javascript:void(0)" class="mt20 link-prb">Learn More <i class="fas fa-chevron-right fa-icon"></i></a>
+                     <h4 class="mb10">OUR SERVICE BREAKDOWN</h4>
+                     <p style="color:#ffffff;">We provide top-notch digital solutions: captivating web design, seamless app development, and strategic marketing expertise. Trust us to elevate your brand with innovative design and drive growth through targeted strategies.</p>                     
                   </div>
                </div>
                <div  data-tilt data-tilt-max="5" data-tilt-speed="1000" class="col-lg-3-cus wow fadeInUp" data-wow-delay=".4s">
-                  <div class="service-sec-list srvc-bg-nx srcl1">
+                  <div class="service-sec-list srvc-bg-nx srcl2">
                      <img src="images/icons/development.svg" alt="service">
-                     <h5 class="mb10">Web Development</h5>
+                     <h5 class="mb10" style="color:#D45F2E;">Web Development</h5>
                      <ul class="-service-list">
                         <li> <a href="#">PHP</a> </li>
-                        <li> <a href="#"><strong>.</strong>Net</a> </li>
+                        <li> <a href="#">Javascript</a> </li>
+                        <li><a href="#">Wordpress</a></li>
                         <li> <a href="#">Java</a> </li>
                         <li> <a href="#">Joomla</a></li>
                      </ul>
-                     <p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
+                     <p>Let our skilled developers bring your digital vision to life with clean, efficient, and scalable code. From simple websites to complex web applications, we have your needs covered.</p>
                   </div>
                </div>
                <div data-tilt data-tilt-max="5" data-tilt-speed="1000" class="col-lg-3-cus wow fadeInUp" data-wow-delay=".6s">
                   <div class="service-sec-list srvc-bg-nx srcl2">
                      <img src="images/icons/ecommerce.svg" alt="service">
-                     <h5 class="mb10">Ecommerce Development</h5>
+                     <h5 class="mb10" style="color:#D45F2E;">Ecommerce Development</h5>
                      <ul class="-service-list">
-                        <li> <a href="#">Magento </a> </li>
-                        <li> <a href="#">WP</a> </li>
+                        <li> <a href="#">Wordpress </a> </li>
+                        <li> <a href="#">Magento</a> </li>
                         <li> <a href="#">Shopify </a> </li>
-                        <li> <a href="#">Joomla</a></li>
+                        <li> <a href="#">WooCommerce</a></li>
                      </ul>
-                     <p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
+                     <p>We deliver top-tier digital solutions, including captivating web design, seamless app development, strategic marketing, and e-commerce expertise. </p>
                   </div>
                </div>
                <div  data-tilt data-tilt-max="5" data-tilt-speed="1000" class="col-lg-3-cus mt30- wow fadeInUp" data-wow-delay=".8s">
-                  <div class="service-sec-list srvc-bg-nx srcl3">
+                  <div class="service-sec-list srvc-bg-nx srcl2">
                      <img src="images/icons/app.svg" alt="service">
-                     <h5 class="mb10">Mobile App Development</h5>
+                     <h5 class="mb10" style="color:#D45F2E;">Mobile App Development</h5>
                      <ul class="-service-list">
                         <li> <a href="#">iPhone </a> </li>
                         <li> <a href="#">Android</a> </li>
                         <li> <a href="#">Cross Platform </a></li>
                      </ul>
-                     <p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
+                     <p>Our service covers the entire lifecycle of mobile and web application development. From conceptualization to deployment</p>
                   </div>
-               </div>
-               <div  data-tilt data-tilt-max="5" data-tilt-speed="1000" class="col-lg-3-cus mt30- wow fadeInUp" data-wow-delay="1s">
-                  <div class="service-sec-list srvc-bg-nx srcl4">
-                     <img src="images/icons/tech.svg" alt="service">
-                     <h5 class="mb10">Trending Technologies</h5>
-                     <ul class="-service-list">
-                        <li> <a href="#">React.JS </a> </li>
-                        <li> <a href="#">Node.JS </a> </li>
-                        <li> <a href="#"> Angular.JS </a></li>
-                     </ul>
-                     <p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
-                  </div>
-               </div>
-               <div  data-tilt data-tilt-max="5" data-tilt-speed="1000" class="col-lg-6-cus mt30- wow fadeInUp" data-wow-delay="1.2s">
-                  <div class="service-sec-list srvc-bg-nx srcl5">
+               </div>               
+               <div  data-tilt data-tilt-max="5" data-tilt-speed="1000" class="col-lg-3-cus mt30- wow fadeInUp" data-wow-delay="1.2s">
+                  <div class="service-sec-list srvc-bg-nx srcl2">
                      <img src="images/icons/seo.svg" alt="service">
-                     <h5 class="mb10">Digital Marketing</h5>
+                     <h5 class="mb10" style="color:#D45F2E;">Digital Marketing</h5>
                      <ul class="-service-list">
                         <li> <a href="#">SEO </a> </li>
                         <li> <a href="#">SMO </a> </li>
                         <li> <a href="#">PPC </a></li>
                         <li> <a href="#">PPC </a></li>
                      </ul>
-                     <p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
+                     <p>Drive growth and visibility with our data-driven marketing strategies, spanning SEO, social media, content marketing, and paid advertising.</p>
+                  </div>
+               </div>
+               <div  data-tilt data-tilt-max="5" data-tilt-speed="1000" class="col-lg-3-cus mt30- wow fadeInUp" data-wow-delay="1.2s">
+                  <div class="service-sec-list srvc-bg-nx srcl2">
+                     <img src="images/icons/brand.png" alt="service">
+                     <h5 class="mb10" style="color:#D45F2E;">Branding Solutions</h5>                     
+                     <p style="color:white;">Establish a strong and consistent brand identity with our comprehensive branding services, including logo design, brand strategy, and visual identity development.</p>
                   </div>
                </div>
             </div>
             <div class="-cta-btn mt70">
                <div class="free-cta-title v-center zoomInDown wow" data-wow-delay="1.4s">
                   <p>Hire a <span>Dedicated Developer</span></p>
-                  <a href="#" class="btn-main bg-btn2 lnk">Hire Now<i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+                  <a href="contact-us.php" class="btn-main bg-btn2 lnk">Hire Now<i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
                </div>
             </div>
          </div>
@@ -237,8 +222,8 @@
                         <img src="images/icons/startup.svg" alt="years" class="img-fluid" />
                      </div>
                      <div class="statnumb">
-                        <span class="counter">15</span><span>+</span>
-                        <p>Year In Business</p>
+                        <span class="counter">4</span><span>+</span>
+                        <p>Years In Ascendance</p>
                      </div>
                   </div>
                </div>
@@ -248,7 +233,7 @@
                         <img src="images/icons/team.svg" alt="team" class="img-fluid" />
                      </div>
                      <div class="statnumb">
-                        <span class="counter">80</span><span>+</span>
+                        <span class="counter">15</span><span>+</span>
                         <p>Team Members</p>
                      </div>
                   </div>
@@ -261,7 +246,7 @@
                         <img src="images/icons/deal.svg" alt="happy" class="img-fluid" />
                      </div>
                      <div class="statnumb">
-                        <span class="counter">450</span>
+                        <span class="counter">726</span><span>+</span>
                         <p>Happy Clients</p>
                      </div>
                   </div>
@@ -272,7 +257,7 @@
                         <img src="images/icons/computers.svg" alt="project" class="img-fluid" />
                      </div>
                      <div class="statnumb counter-number">
-                        <span class="counter">48</span><span>k</span>
+                        <span class="counter">1</span><span>k</span><span>+</span>
                         <p>Projects Done</p>
                      </div>
                   </div>
@@ -283,7 +268,7 @@
                         <img src="images/icons/worker.svg" alt="work" class="img-fluid" />
                      </div>
                      <div class="statnumb">
-                        <span class="counter">95</span><span>k</span>
+                        <span class="counter">750</span><span>k</span><span>+</span>
                         <p>Hours Worked</p>
                      </div>
                   </div>
@@ -309,29 +294,29 @@
             <div class="row">
                <div class="col-lg-6">
                   <div class="common-heading text-l">
-                     <span>Why Choose Us</span>
-                     <h2 class="mb20">Why The Niwax <span class="text-second text-bold">Ranked Top</span> Among The Leading Web & App Development Companies</h2>
-                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                     <span style="color:ffa76a;">Why Choose Us</span>
+                     <h2 class="mb20">At <span class="text-second text-bold">Flohigh Technology</span> we stand out from the digital crowd, offering a unique blend of innovation, expertise, and commitment.</h2>
+                     <p>Choosing us means partnering with a team that is dedicated to turning your digital aspirations into reality. Here are compelling reasons to make us your preferred digital partner:</p>
                      <div class="itm-media-object mt40 tilt-3d">
                         <div class="media">
-                           <div class="img-ab- base" data-tilt data-tilt-max="20" data-tilt-speed="1000"><img src="images/icons/computers.svg" alt="icon" class="layer"></div>
+                           <div class="img-ab- base" data-tilt data-tilt-max="20" data-tilt-speed="1000"><img src="images/icons/touch.png" alt="icon" class="layer"></div>
                            <div class="media-body">
-                              <h4>Streamlined Project Management</h4>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet ligula nec leo elementum semper. Mauris aliquet egestas metus.</p>
+                              <h4>Expertise Across the Digital Spectrum:</h4>
+                              <p>Our team comprises seasoned professionals with diverse skills spanning web design, development, app creation, UI/UX, graphic design, branding, and marketing. This comprehensive expertise ensures that we can address all your digital needs under one roof.</p>
                            </div>
                         </div>
                         <div class="media mt40">
-                           <div class="img-ab- base" data-tilt data-tilt-max="20" data-tilt-speed="1000"><img src="images/icons/worker.svg" alt="icon" class="layer"></div>
+                           <div class="img-ab- base" data-tilt data-tilt-max="20" data-tilt-speed="1000"><img src="images/icons/customer.png" alt="icon" class="layer"></div>
                            <div class="media-body">
-                              <h4>A Dedicated Team of Experts</h4>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet ligula nec leo elementum semper. Mauris aliquet egestas metus.</p>
+                              <h4>Client-Centric Approach:</h4>
+                              <p>Your success is our priority. We take the time to understand your business, goals, and challenges to tailor our solutions accordingly. Our client-centric approach means you get personalized services that align perfectly with your unique requirements.</p>
                            </div>
                         </div>
                         <div class="media mt40">
-                           <div class="img-ab- base" data-tilt data-tilt-max="20" data-tilt-speed="1000"> <img src="images/icons/deal.svg" alt="icon" class="layer"></div>
+                           <div class="img-ab- base" data-tilt data-tilt-max="20" data-tilt-speed="1000"> <img src="images/icons/inspiration.png" alt="icon" class="layer"></div>
                            <div class="media-body">
-                              <h4>Completion of Project in Given Time</h4>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet ligula nec leo elementum semper. Mauris aliquet egestas metus.</p>
+                              <h4>Innovative Solutions for Every Industry:</h4>
+                              <p>We thrive on challenges and love the diversity that comes with working across various industries. Whether you're in e-commerce, healthcare, finance, or any other sector, our innovative solutions are designed to elevate your brand and leave a lasting impression.</p>
                            </div>
                         </div>
                      </div>
@@ -339,19 +324,21 @@
                </div>
                <div class="col-lg-6">
                   <div  data-tilt data-tilt-max="5" data-tilt-speed="1000" class="single-image bg-shape-dez wow fadeIn" data-wow-duration="2s"><img src="images/about/about-company.jpg" alt="image" class="img-fluid"></div>
-                  <p class="text-center mt30">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                  <p class="text-center mt30">Choosing [Your Agency Name] means choosing a partner dedicated to realizing your digital vision. Let's embark on a journey of innovation, creativity, and success together. Contact us today to explore the endless possibilities!</p>
                   <div class="cta-card mt60 text-center">
                      <h3 class="mb20">Let's Start a  <span class="text-second text-bold">New Project</span> Together</h3>
                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet ligula nec leo elementum semper.</p>
-                     <a href="#" class="niwax-btn1 mt30"><span>Request A Quote <i class="fas fa-chevron-right fa-icon"></i></span></a>
+                     <a href="contact-us.php" class="niwax-btn2 wow fadeIn"  data-wow-delay="0.8s">Get in Touch <i class="fas fa-chevron-right fa-ani"></i></a>
                   </div>
                </div>
             </div>
          </div>
       </section>
+
+
       <!--End why choose-->
       <!--Start Portfolio-->
-      <section class="portfolio-section pad-tb">
+      <!-- <section class="portfolio-section pad-tb">
          <div class="container">
             <div class="row justify-content-center ">
                <div class="col-lg-8">
@@ -408,10 +395,10 @@
                </div>
             </div>
          </div>
-      </section>
+      </section> -->
       <!--End Portfolio-->
       <!--Start Clients-->
-      <section class="clients-section- bg-gradient15 pad-tb">
+      <!-- <section class="clients-section- bg-gradient15 pad-tb">
          <div class="container">
             <div class="row justify-content-center">
                <div class="col-lg-8">
@@ -502,145 +489,41 @@
                </div>
             </div>
          </div>
-      </section>
+      </section> -->
       <!--End Clients-->
       <!--Start Badges-->
+
+
       <section class="badges-section bg-gradient5  pad-tb">
          <div class="container">
             <div class="row justify-content-center">
                <div class="col-lg-8">
                   <div class="common-heading w-tdxt">
-                     <span>WE MAKE RELATIONSHIPS</span>
-                     <h2>Ranked as #1 Top Web & App Development Companies</h2>
+                     <span>SIMPLY THE BEST</span>
+                     <h2>Ranked as #1 Top Web & App Development Company in 2019-2020</h2>
                   </div>
                </div>
             </div>
-            <div class="row">
-               <div class="col-lg-3 col-md-6 col-6 wow fadeIn" data-wow-delay=".2s">
-                  <div class="badges-content">
-                     <img src="images/about/badges-a.png" alt="budges"  class="img-fluid">
-                     <p>ABC DEF Industry Leader</p>
-                  </div>
-               </div>
-               <div class="col-lg-3 col-md-6 col-6 wow fadeIn" data-wow-delay=".4s">
+            <div class="row">               
+               <div class="col-lg-12 col-md-12 col-12 wow fadeIn" data-wow-delay=".4s">
                   <div class="badges-content">
                      <img src="images/about/badges-b.png" alt="budges"  class="img-fluid">
                      <p>Best eCommerce Development Company</p>
                   </div>
-               </div>
-               <div class="col-lg-3 col-md-6 col-6 wow fadeIn" data-wow-delay=".6s">
-                  <div class="badges-content">
-                     <img src="images/about/badges-c.png" alt="budges"  class="img-fluid">
-                     <p>ABC DEF High Performer Winner</p>
-                  </div>
-               </div>
-               <div class="col-lg-3 col-md-6 col-6 wow fadeIn" data-wow-delay=".8s">
-                  <div class="badges-content">
-                     <img src="images/about/badges-d.png" alt="budges"  class="img-fluid">
-                     <p>Top App Developer 2019-20</p>
-                  </div>
-               </div>
+               </div>               
             </div>
             <div class="-cta-btn mt70">
                <div class="free-cta-title v-center wow fadeInUp" data-wow-delay="1s">
                   <p>We <span>Promise.</span> We <span>Deliver.</span></p>
-                  <a href="#" class="btn-main bg-btn2 lnk">Let's Work Together<i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+                  <a href="contact-us.php" class="btn-main bg-btn2 lnk">Let's Work Together<i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
                </div>
             </div>
          </div>
       </section>
       <!--End Badges-->
-      <!--Start work-category-->
-      <section class="work-category pad-tb">
-         <div class="container">
-            <div class="row">
-               <div class="col-lg-4 v-center">
-                  <div class="common-heading text-l">
-                     <span>Industries we work for</span>
-                     <h2>Helping Businesses in All Domains</h2>
-                     <p>Successfully delivered digital products Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                  </div>
-               </div>
-               <div class="col-lg-8">
-                  <div class="work-card-set">
-                     <div  class="icon-set wow fadeIn" data-wow-delay=".2s">
-                        <div class="work-card cd1">
-                           <div class="icon-bg"><img src="images/icons/icon-1.png" alt="Industries" /></div>
-                           <p>Social Networking</p>
-                        </div>
-                     </div>
-                     <div  class="icon-set wow fadeIn" data-wow-delay=".4s">
-                        <div class="work-card cd2">
-                           <div class="icon-bg"><img src="images/icons/icon-2.png" alt="Industries" /></div>
-                           <p>Digital Marketing</p>
-                        </div>
-                     </div>
-                     <div class="icon-set wow fadeIn" data-wow-delay=".6s">
-                        <div class="work-card cd3">
-                           <div class="icon-bg"><img src="images/icons/icon-3.png" alt="Industries" /></div>
-                           <p>Ecommerce Development</p>
-                        </div>
-                     </div>
-                     <div class="icon-set wow fadeIn" data-wow-delay=".8s">
-                        <div class="work-card cd4">
-                           <div class="icon-bg"><img src="images/icons/icon-4.png" alt="Industries" /></div>
-                           <p>Video Service</p>
-                        </div>
-                     </div>
-                     <div class="icon-set wow fadeIn" data-wow-delay="1s">
-                        <div class="work-card cd5">
-                           <div class="icon-bg"><img src="images/icons/icon-5.png" alt="Industries" /></div>
-                           <p>Banking Service</p>
-                        </div>
-                     </div>
-                     <div class="icon-set wow fadeIn" data-wow-delay="1.2s">
-                        <div class="work-card cd6">
-                           <div class="icon-bg"><img src="images/icons/icon-6.png" alt="Industries" /></div>
-                           <p>Enterprise Service</p>
-                        </div>
-                     </div>
-                     <div class="icon-set wow fadeIn" data-wow-delay="1.4s">
-                        <div class="work-card cd7">
-                           <div class="icon-bg"><img src="images/icons/icon-7.png" alt="Industries" /></div>
-                           <p>Education Service</p>
-                        </div>
-                     </div>
-                     <div class="icon-set wow fadeIn" data-wow-delay="1.6s">
-                        <div class="work-card cd8">
-                           <div class="icon-bg"><img src="images/icons/icon-8.png" alt="Industries" /></div>
-                           <p>Tour and Travels</p>
-                        </div>
-                     </div>
-                     <div class="icon-set wow fadeIn" data-wow-delay="1.8s">
-                        <div class="work-card cd9">
-                           <div class="icon-bg"><img src="images/icons/icon-9.png" alt="Industries" /></div>
-                           <p>Health Service</p>
-                        </div>
-                     </div>
-                     <div class="icon-set wow fadeIn" data-wow-delay="2s">
-                        <div class="work-card cd10">
-                           <div class="icon-bg"><img src="images/icons/icon-10.png" alt="Industries" /></div>
-                           <p>Event & Ticket</p>
-                        </div>
-                     </div>
-                     <div class="icon-set wow fadeIn" data-wow-delay="2.2s">
-                        <div class="work-card cd11">
-                           <div class="icon-bg"><img src="images/icons/icon-11.png" alt="Industries" /></div>
-                           <p>Restaurant Service</p>
-                        </div>
-                     </div>
-                     <div class="icon-set wow fadeIn" data-wow-delay="2.4s">
-                        <div class="work-card cd12">
-                           <div class="icon-bg"><img src="images/icons/icon-12.png" alt="Industries" /></div>
-                           <p>Business Consultant</p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-      <!--End  work-category-->
+
+
+      
       <!--Start Testinomial-->
       <section class="testinomial-section bg-none pad-tb">
          <div class="container">
@@ -652,69 +535,47 @@
                   </div>
                </div>
             </div>
-            <div class="row">
-               <div class="col-lg-6">
-                  <div class="video-testimonials owl-carousel">
-                     <div class="video-review" data-tilt data-tilt-max="5" data-tilt-speed="1000">
-                        <a class="video-link" href="https://www.youtube.com/watch?v=SZEflIVnhH8?autoplay=1&amp;rel=0">
-                           <img src="images/client/client-pic.jpg" alt="client" class="img-fluid">
-                           <div class="review-vid-details">
-                              <div class="-vid-ico"><span class="triangle-play2"></span></div>
-                              <p>Cina Cleaves</p>
-                           </div>
-                        </a>
-                     </div>
-                     <div class="video-review" data-tilt data-tilt-max="5" data-tilt-speed="1000">
-                        <a class="video-link" href="https://www.youtube.com/watch?v=SZEflIVnhH8?autoplay=1&amp;rel=0">
-                           <img src="images/client/client-pic-a.jpg" alt="client" class="img-fluid">
-                           <div class="review-vid-details">
-                              <div class="-vid-ico"><span class="triangle-play2"></span></div>
-                              <p>Jokvch Marlin</p>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-6">
+            <div class="row">               
+               <div class="col-lg-12" style="text-align:center; ">
                   <div class="owl-carousel testimonial-card-a pl25">
                      <div class="testimonial-card">
                         <div class="t-text">
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                           <p>Flohigh Technology is our go-to partner for comprehensive marketing solutions. Their strategic approach to SEO, social media, and content marketing significantly increased our online engagement. A reliable and results-driven team that consistently delivers excellence.</p>
                         </div>
                         <div class="client-thumbs mt30">
                            <div class="media v-center">
                               <div class="user-image bdr-radius"><img src="images/user-thumb/girl.jpg" alt="girl" class="img-fluid" /></div>
                               <div class="media-body user-info v-center">
-                                 <h5>Mike Smith</h5>
-                                 <p>Business Owner, <small>Sydney, Australia</small></p>
+                                 <h5>Femi Collins,</h5>
+                                 <p>Marketing Manager, <small> Global Tech Solutions</small></p>
                               </div>
                            </div>
                         </div>
                      </div>
                      <div class="testimonial-card">
                         <div class="t-text">
-                           <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                           <p>Collaborating with Flohigh Technology on UI/UX design was a delightful experience. Their team’s creativity, attention to user experience, and commitment to creating intuitive interfaces resulted in designs that resonate with our audience. Highly recommended!</p>
                         </div>
                         <div class="client-thumbs mt30">
                            <div class="media v-center">
                               <div class="user-image bdr-radius"><img src="images/user-thumb/girl.jpg" alt="girl" class="img-fluid" /></div>
                               <div class="media-body user-info">
-                                 <h5>Fred Chener</h5>
-                                 <p>CEO of Aramxx, <small>Ohio, US State</small></p>
+                                 <h5>Sarah Uche</h5>
+                                 <p>CEO, <small>Tech Innovators Inc.,</small></p>
                               </div>
                            </div>
                         </div>
                      </div>
                      <div class="testimonial-card">
                         <div class="t-text">
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                           <p>Flohigh Technology's marketing solutions transformed our digital strategy. Their team’s creativity and data-driven approach significantly boosted our online visibility. They are more than a service provider; they are strategic partners invested in our success.</p>
                         </div>
                         <div class="client-thumbs mt30">
                            <div class="media v-center">
                               <div class="user-image bdr-radius"><img src="images/user-thumb/girl.jpg" alt="girl" class="img-fluid" /></div>
                               <div class="media-body user-info">
-                                 <h5>Mathilda Burns</h5>
-                                 <p>Backery Shop, <small>Tronto, Italy</small></p>
+                                 <h5>Fashola Stevens</h5>
+                                 <p>Marketing Manager, <small>Prespay NG.</small></p>
                               </div>
                            </div>
                         </div>
@@ -727,7 +588,7 @@
                   <div class="review-ref mt100">
                      <div class="review-title-ref">
                         <h4>Read More Reviews</h4>
-                        <p>Read our reviews from all over world.</p>
+                        <p>Read our reviews from all over the country.</p>
                      </div>
                      <div class="review-icons">
                         <a href="#" target="blank" class="wow fadeIn" data-wow-delay=".2s"><img src="images/about/reviews-icon-1.png" alt="review" class="img-fluid"></a>
@@ -748,8 +609,8 @@
                   <div class="common-heading">
                      <span>Let's work together</span>
                      <h2>We Love to Listen to Your Requirements</h2>
-                     <a href="javascript:void(0)" class="btn-outline">Estimate Project <i class="fas fa-chevron-right fa-icon"></i></a>
-                     <p class="cta-call">Or call us now <a href="tel:+1234567890"><i class="fas fa-phone-alt"></i> (123) 456 7890</a></p>
+                     <a href="contact-us.php" class="btn-outline">Estimate Project Cost <i class="fas fa-chevron-right fa-icon"></i></a>
+                     <p class="cta-call">Or call us now <a href="tel:+2349169768106"><i class="fas fa-phone-alt"></i> +234 916 976 8106</a></p>
                   </div>
                </div>
             </div>
@@ -767,53 +628,19 @@
                <div class="col-lg-8">
                   <div class="common-heading">
                      <span>Our Locations</span>
-                     <h2>Our Office</h2>
+                     <h2>Find us at</h2>
                   </div>
                </div>
             </div>
             <div class="row justify-content-center upset shape-numm">
-               <div class="col-lg-4 col-sm-6 shape-loc wow fadeInUp" data-wow-delay=".2s">
+               <div class="col-lg-4 col-sm-12 shape-loc wow fadeInUp" data-wow-delay=".2s">
                   <div class="office-card">
                      <div class="skyline-img" data-tilt data-tilt-max="4" data-tilt-speed="1000">
-                        <img src="images/location/newyork.png" alt="New York" class="img-fluid" />
+                        <img src="images/location/lagos.jpg" alt="New York" class="img-fluid" />
                      </div>
                      <div class="office-text">
-                        <h4>New York</h4>
-                        <p>603 FA Forest Avenue, New York, USA 10021</p>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn"><i class="fas fa-map-marker-alt"></i></a>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn"><i class="fas fa-phone-alt"></i></a>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn"><i class="fas fa-envelope"></i></a>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn"><i class="fab fa-skype"></i></a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-sm-6 shape-loc wow fadeInUp" data-wow-delay=".5s">
-                  <div class="office-card">
-                     <div class="skyline-img" data-tilt data-tilt-max="4" data-tilt-speed="1000">
-                        <img src="images/location/sydeny.png" alt="sydney" class="img-fluid" />
-                     </div>
-                     <div class="office-text">
-                        <h4>Sydney</h4>
-                        <p>2449 Columbia Boulevard, Sydney, 10021</p>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn"><i class="fas fa-map-marker-alt"></i></a>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn"><i class="fas fa-phone-alt"></i></a>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn"><i class="fas fa-envelope"></i></a>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn"><i class="fab fa-skype"></i></a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-sm-6 shape-loc wow fadeInUp" data-wow-delay=".8s">
-                  <div class="office-card mb0">
-                     <div class="skyline-img" data-tilt data-tilt-max="4" data-tilt-speed="1000">
-                        <img src="images/location/rome.png" alt="rome" class="img-fluid" />
-                     </div>
-                     <div class="office-text">
-                        <h4>Rome</h4>
-                        <p>9988 Piazzetta Scalette Rubiani 99, Rome, 84090</p>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn"><i class="fas fa-map-marker-alt"></i></a>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn"><i class="fas fa-phone-alt"></i></a>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn"><i class="fas fa-envelope"></i></a>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn"><i class="fab fa-skype"></i></a>
+                        <h4>Lagos</h4>
+                        <p>31 Lekki Street, Lagos, Nigeria, 10021</p>                       
                      </div>
                   </div>
                </div>
@@ -821,47 +648,28 @@
          </div>
       </section>
       <!--End Location-->
+
       <!--Start Footer-->
-      <footer>
-         <div class="footer-row1">
-            <div class="container">
-               <div class="row">
-                  <div class="col-lg-6">
-                     <div class="email-subs">
-                        <h3>Get New Insights Weekly</h3>
-                        <p>News letter dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Enter your email</p>
-                     </div>
-                  </div>
-                  <div class="col-lg-6 v-center">
-                     <div class="email-subs-form">
-                        <form>
-                           <input type="email" placeholder="Email Your Address" name="emails">
-                           <button type="submit" name="submit" class="lnk btn-main bg-btn">Subscribe <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></button>
-                        </form>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
+      <footer>         
          <div class="footer-row2">
             <div class="container">
-               <div class="row justify-content-between">
+               <div class="row">
                   <div class="col-lg-3 col-sm-6  ftr-brand-pp">
-                     <a class="navbar-brand mt30 mb25 f-dark-logo" href="#"> <img src="images/logo.png" alt="Logo"/></a>
-                     <a class="navbar-brand mt30 mb25 f-white-logo" href="#"> <img src="images/white-logo.png" alt="Logo" /></a>
-                     <p>News letter dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Enter your email</p>
-                     <a href="#" class="btn-main bg-btn3 lnk mt20">Become Partner <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+                     <a class="navbar-brand mt30 mb25 f-dark-logo" href="#"> <img src="images/dark-logo.png" style="margin-bottom:-100px; margin-left:-50px;" alt="Logo"/></a>
+                     <a class="navbar-brand mt30 mb25 f-white-logo" href="#"> <img src="images/flohigh-logo.png" style="margin-bottom:-100px;  margin-left:-50px;" alt="Logo" /></a>
+                     <p>Flohigh Technology, where innovation meets excellence in the digital realm.</p>
+                     <a href="contact-us.php" class="btn-main bg-btn3 lnk mt20">Get in Touch <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
                   </div>
                   <div class="col-lg-3 col-sm-6">
                      <h5>Contact Us</h5>
                      <ul class="footer-address-list ftr-details">
                         <li>
                            <span><i class="fas fa-envelope"></i></span>
-                           <p>Email <span> <a href="mailto:info@businessname.com">info@businessname.com</a></span></p>
+                           <p>Email <span> <a href="mailto:info@flohigh.tech">info@flohigh.tech</a></span></p>
                         </li>
                         <li>
                            <span><i class="fas fa-phone-alt"></i></span>
-                           <p>Phone <span> <a href="tel:+10000000000">+1 0000 000 000</a></span></p>
+                           <p>Phone <span> <a href="tel:+2349169768106">+234 916 976 8106</a></span></p>
                         </li>
                         <li>
                            <span><i class="fas fa-map-marker-alt"></i></span>
@@ -872,8 +680,8 @@
                   <div class="col-lg-2 col-sm-6">
                      <h5>Company</h5>
                      <ul class="footer-address-list link-hover">
-                        <li><a href="get-quote.html">Contact</a></li>
-                        <li><a href="javascript:void(0)">Customer's FAQ</a></li>
+                        <li><a href="contact-us.php">Contact</a></li>
+                        <li><a href="faq.php">Customer's FAQ</a></li>
                         <li><a href="javascript:void(0)">Refund Policy</a></li>
                         <li><a href="javascript:void(0)">Privacy Policy</a></li>
                         <li><a href="javascript:void(0)">Terms and Conditions</a></li>
@@ -881,38 +689,11 @@
                      </ul>
                   </div>
                   <div class="col-lg-4 col-sm-6 footer-blog-">
-                     <h5>Latest Blogs</h5>
-                     <div class="single-blog-">
-                        <div class="post-thumb"><a href="#"><img src="images/blog/blog-small.jpg" alt="blog"></a></div>
-                        <div class="content">
-                           <p class="post-meta"><span class="post-date"><i class="far fa-clock"></i>April 15, 2020</span></p>
-                           <h4 class="title"><a href="blog-sngle.html">We Provide you Best &amp; Creative Consulting Service</a></h4>
-                        </div>
-                     </div>
-                     <div class="single-blog-">
-                        <div class="post-thumb"><a href="#"><img src="images/blog/blog-small.jpg" alt="blog"></a></div>
-                        <div class="content">
-                           <p class="post-meta"><span class="post-date"><i class="far fa-clock"></i>April 15, 2020</span></p>
-                           <h4 class="title"><a href="blog-sngle.html">We Provide you Best &amp; Creative Consulting Service</a></h4>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="footer-brands">
-            <div class="container">
-               <div class="row">
-                  <div class="col-lg-4 v-center">
-                     <h5 class="mb10">Top App Development Companies</h5>
-                     <p>News letter dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Enter your email</p>
-                  </div>
-                  <div class="col-lg-8 v-center">
-                     <ul class="footer-badges-">
-                        <li><a href="#"><img src="images/about/badges-a.png" alt="badges"></a></li>
-                        <li><a href="#"><img src="images/about/badges-b.png" alt="badges"></a></li>
-                        <li><a href="#"><img src="images/about/badges-c.png" alt="badges"></a></li>
-                        <li><a href="#"><img src="images/about/badges-d.png" alt="badges"></a></li>
+                     <h5>Quick Links</h5>
+                     <ul class="footer-address-list link-hover">
+                        <li><a href="about-us.php">About Us</a></li>
+                        <li><a href="services.php">Our Services</a></li>
+                        <li><a href="portfolio">Our Portfolio</a></li>
                      </ul>
                   </div>
                </div>
@@ -925,17 +706,11 @@
                      <div class="col-lg-12">
                         <div class="footer-social-media-icons">
                            <a href="javascript:void(0)" target="blank"><i class="fab fa-facebook"></i></a>
-                           <a href="javascript:void(0)" target="blank"><i class="fab fa-twitter"></i></a>
                            <a href="javascript:void(0)" target="blank"><i class="fab fa-instagram"></i></a>
-                           <a href="javascript:void(0)" target="blank"><i class="fab fa-linkedin"></i></a>
                            <a href="javascript:void(0)" target="blank"><i class="fab fa-youtube"></i></a>
-                           <a href="javascript:void(0)" target="blank"><i class="fab fa-pinterest-p"></i></a>
-                           <a href="javascript:void(0)" target="blank"><i class="fab fa-vimeo-v"></i></a>
-                           <a href="javascript:void(0)" target="blank"><i class="fab fa-dribbble"></i></a>
-                           <a href="javascript:void(0)" target="blank"><i class="fab fa-behance"></i></a>
                         </div>
                         <div class="footer-">
-                           <p>© 2020-2022. All Rights Reserved By <a href="https://themeforest.net/user/rajesh-doot/portfolio" target="blank">Rajesh Doot</a></p>
+                           <p>© 2020-<?php date('Y'); ?>. All Rights Reserved By Flohigh Technology</a></p>
                         </div>
                      </div>
                   </div>
@@ -944,47 +719,6 @@
          </div>
       </footer>
       <!--End Footer-->
-      
-<!-- lead generaton popup start -->   
-<!-- <div class="modal leadpopup" id="leadModal">
-   <div class="modal-dialog modal-dialog-centered">
-     <div class="modal-content">      
-       <div class="modal-body">
-         <div class="innerbody">
-           <div class="innerleft">
-            <div class="leadbtnclose"> <button type="button" class="btn-close" data-bs-dismiss="modal"></button></div>
-              <h3>Build Your App in just 2 Weeks</h3>
-              <p class="mt10">Leave your details and one of our experts will contact you soon</p>             
-               <div class="form-block mt20">
-                  <form action="#" id="quotes-form" method="post">
-                     <div class="fieldsets row">
-                        <div class="col-md-12 form-group floating-label">
-                           <input type="text" placeholder=" " required="required" class="floating-input">
-                           <label>Full Name*</label>
-                        </div>
-                        <div class="col-md-12 form-group floating-label">
-                           <input type="email" placeholder=" " required="required" class="floating-input">
-                           <label>Email Address*</label>
-                        </div>
-                     </div>
-                     <div class="fieldsets row">
-                        <div class="col-md-12 form-group floating-label">
-                           <input type="tel" placeholder=" " required="required" class="floating-input">
-                           <label>Mobile Number*</label>
-                        </div>                        
-                     </div>
-                     <div class="fieldsets mt20"> <button type="submit" name="submit" class="lnk btn-main bg-btn">Submit <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></button> </div>
-                     <p class="trm"><i class="fas fa-lock"></i>We hate spam, and we respect your privacy.</p>
-                  </form>
-               </div>              
-           </div>
-           <div class="innerright" data-background="images/service/mockup-app.jpg"></div>
-         </div>         
-       </div>      
-     </div>
-   </div>
- </div> -->
-<!-- lead generaton popup end -->
 
       <!-- js placed at the end of the document so the pages load faster -->
       <script src="js/vendor/modernizr-3.5.0.min.js"></script>

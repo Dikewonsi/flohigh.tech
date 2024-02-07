@@ -1,4 +1,4 @@
-Dark orange - D45F2E
+Darkest orange - D45F2E
 
 Dark orange - C84C27
 

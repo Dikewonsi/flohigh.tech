@@ -296,7 +296,7 @@
                   <div class="common-heading text-l">
                      <span style="color:ffa76a;">Why Choose Us</span>
                      <h2 class="mb20">At <span class="text-second text-bold">Flohigh Technology</span> we stand out from the digital crowd, offering a unique blend of innovation, expertise, and commitment.</h2>
-                     <p>Choosing us means partnering with a team that is dedicated to turning your digital aspirations into reality. Here are compelling reasons to make us your preferred digital partner:</p>
+                     <p>At Flohigh Technology, we offer a comprehensive suite of digital solutions designed to help businesses thrive in the digital age. From web design and development to branding, marketing, and beyond, we have the expertise and experience to meet all your digital needs. Explore our services below</p>
                      <div class="itm-media-object mt40 tilt-3d">
                         <div class="media">
                            <div class="img-ab- base" data-tilt data-tilt-max="20" data-tilt-speed="1000"><img src="images/icons/touch.png" alt="icon" class="layer"></div>
@@ -601,6 +601,8 @@
          </div>
       </section>
       <!--End Testinomial-->
+
+      
       <!--Start CTA-->
       <section class="cta-area pad-tb">
          <div class="container">
@@ -621,6 +623,7 @@
          <div class="shape shape-a4"><img src="images/shape/shape-11.svg" alt="shape"></div>
       </section>
       <!--End CTA-->
+
       <!--Start Location-->
       <section class="our-office pad-tb" style="margin-bottom:-200px;">
          <div class="container">

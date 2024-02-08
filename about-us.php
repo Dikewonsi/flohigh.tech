@@ -143,7 +143,7 @@
         <div class="row">
           <div class="col-lg-5 v-center">
             <div class="image-block upset bg-shape wow fadeIn">
-              <img src="images/about/cheerful-businessman.jpg" alt="about us Niwax" class="img-fluid"/>
+              <img src="images/team/stephanie-eboka.jpg" alt="about us Flohigh Technology" class="img-fluid"/>
             </div>
           </div>
           <div class="col-lg-7">
@@ -207,7 +207,7 @@
         <div class="row justify-content-center niwaxgap40">
           <div class="col-lg-5 v-center order1">
             <div class="image-block">
-              <img src="images/about/innovation.jpg" alt="about us Niwax" class="img-fluid"/>
+              <img src="images/about/innovation.jpg" alt="about us Flohigh Technology" class="img-fluid"/>
             </div>
           </div>
 
@@ -229,7 +229,7 @@
 
           <div class="col-lg-5 v-center order1">
             <div class="image-block">
-              <img src="images/about/integrity.jpg" alt="about us Niwax" class="img-fluid"/>
+              <img src="images/about/integrity.jpg" alt="about us Flohigh Technology" class="img-fluid"/>
             </div>
           </div>
           </div>
@@ -238,7 +238,7 @@
 			  
           <div class="col-lg-5 v-center order1">
             <div class="image-block">
-              <img src="images/about/collaboration.jpg" alt="about us Niwax" class="img-fluid"/>
+              <img src="images/about/collaboration.jpg" alt="about us Flohigh Technology" class="img-fluid"/>
             </div>
           </div>
 
@@ -261,7 +261,7 @@
           <div class="col-lg-6">
             <div class="common-heading">
               <span>We Are Awesome</span>
-              <h2 class="mb30">Why Choose Niwax</h2>
+              <h2 class="mb30">Why Choose Us</h2>
             </div>
           </div>
         </div>
@@ -316,21 +316,21 @@
           <div class="row justify-content-center">
             <div class="col-lg-4 col-md-4">
               <div class="image-block upset h-scl-">
-                <div class="image-div h-scl-base"><img src="images/team/team-single.jpg" alt="team" class="img-fluid"/></div>
+                <div class="image-div h-scl-base"><img src="images/team/stephanie-eboka.jpg" alt="team" class="img-fluid"/></div>
               </div>
             </div>
             <div class="col-lg-5 col-md-5">
               <div class="full-image-card mt0">
                 <div class="info-text-block">
                   <h3><a href="#">Stephanie Eboka</a></h3>
-                  <p>Company CEO</p>
+                  <p>Company CEO</p>  
                   <div class="social-media-profile">
                     <a href="javascript:void(0)" target="blank"><i class="fab fa-facebook"></i></a>
                     <a href="javascript:void(0)" target="blank"><i class="fab fa-twitter"></i></a>
                     <a href="javascript:void(0)" target="blank"><i class="fab fa-instagram"></i></a>
                     <a href="javascript:void(0)" target="blank"><i class="fab fa-linkedin"></i></a>
                     <a href="javascript:void(0)" target="blank"><i class="fab fa-dribbble"></i></a>
-                  </div>
+                  </div>                
                 </div>                
               </div>
             </div>
@@ -338,21 +338,21 @@
           <div class="row justify-content-center">
             <div class="col-lg-4 col-md-4">
               <div class="image-block upset">
-                <div class="image-div"><a href="#"><img src="images/team/team-single.jpg" alt="team" class="img-fluid"/></a></div>
+                <div class="image-div"><a href="#"><img src="images/team/jeffrey-isibor.png" alt="team" class="img-fluid"/></a></div>
               </div>
             </div>
             <div class="col-lg-5 col-md-5">
               <div class="full-image-card mt0">
                 <div class="info-text-block">
                   <h3><a href="#">Jeffrey Isibor</a></h3>
-                  <p>Web Developer</p>
+                  <p>Web Developer</p>   
                   <div class="social-media-profile">
                     <a href="javascript:void(0)" target="blank"><i class="fab fa-facebook"></i></a>
                     <a href="javascript:void(0)" target="blank"><i class="fab fa-twitter"></i></a>
                     <a href="javascript:void(0)" target="blank"><i class="fab fa-instagram"></i></a>
                     <a href="javascript:void(0)" target="blank"><i class="fab fa-linkedin"></i></a>
                     <a href="javascript:void(0)" target="blank"><i class="fab fa-dribbble"></i></a>
-                  </div>
+                  </div>               
                 </div>                
               </div>
             </div>
@@ -367,7 +367,7 @@
               <div class="full-image-card mt0">
                 <div class="info-text-block">
                   <h3><a href="#">Zino</a></h3>
-                  <p>Company CTO</p>
+                  <p>App Developer</p>
                   <div class="social-media-profile">
                     <a href="javascript:void(0)" target="blank"><i class="fab fa-facebook"></i></a>
                     <a href="javascript:void(0)" target="blank"><i class="fab fa-twitter"></i></a>

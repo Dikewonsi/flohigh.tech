@@ -3,9 +3,11 @@
             <div class="container">
                <div class="row">
                   <div class="col-lg-3 col-sm-6 ftr-brand-pp">
-                     <a class="navbar-brand mt30 mb25 f-dark-logo" href="#"> <img src="images/dark-logo.png" style="margin-bottom:-100px; margin-left:-50px;" alt="Logo"/></a>
+                     <a class="navbar-brand mt30 mb25 f-dark-logo" href="#"> <img src="images/dark-logo1.png" style="margin-bottom:-100px; margin-left:-50px;" alt="Logo"/></a>
                      <a class="navbar-brand mt30 mb25 f-white-logo" href="#"> <img src="images/flohigh-logo.png" style="margin-bottom:-100px;  margin-left:-50px;" alt="Logo" /></a>
+                     <br><br><br><br><br>
                      <p>Flohigh Technology, where innovation meets excellence in the digital realm.</p>
+                     <br>
                      <a href="contact-us.php" class="btn-main bg-btn2 lnk">Get in Touch <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
                   </div>
                   <div class="col-lg-3 col-sm-6">

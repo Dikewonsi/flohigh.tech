@@ -201,41 +201,6 @@
             <p class="mt10">Please fill out the form below if you have a plan or project in mind that you'd like to share with us.</p>
           </div>
         </div>
-        <div class="row justify-content-between">
-          <div class="col-lg-8">
-            <h5 class="mt30 mb30">Visit Our offices</h5>
-            <div class="getintouchblock">
-              <div class="locations ">
-                <div class="ouroffice">
-                  <h4>Lagos</h4>
-                  <p>33, Sarvodaya Trust Bldg, - 302013</p>
-                  <a href="#" target="blank">View on map <i class="fas fa-location-arrow fa-icon"></i></a>
-                </div>                
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3">
-            <h5 class="mt30 mb30">Dial a Call or Drop an Email</h5>
-            <div class="media mt15">
-              <div class="icondive"><img src="images/icons/call.svg" alt="icon"></div>
-              <div class="media-body getintouchinfo">
-                <a href="tel:+2349169768106">+234 916 9768 106 <span>Mon-Fri 9am - 6pm</span></a>
-              </div>
-            </div>
-            <div class="media mt15">
-              <div class="icondive"><img src="images/icons/whatsapp.svg" alt="icon"></div>
-              <div class="media-body getintouchinfo">
-                <a href="tel:+2349169768106">+234 916 9768 106<span>24/7</span></a>
-              </div>
-            </div>
-            <div class="media mt15">
-              <div class="icondive"><img src="images/icons/mail.svg" alt="icon"></div>
-              <div class="media-body getintouchinfo">
-                <a href="mailto:info@flohigh.tech">info@flohigh.tech <span>Online Email Support</span></a>
-              </div>
-            </div>            
-          </div>
-        </div>
       </div>
     </div>
     <!--End Location-->

@@ -20,11 +20,7 @@
                      <li>
                         <span><i class="fas fa-phone-alt"></i></span>
                         <p>Phone <span> <a href="tel:+2349169768106">+234 916 976 8106</a></span></p>
-                     </li>
-                     <li>
-                        <span><i class="fas fa-map-marker-alt"></i></span>
-                        <p>Address <span> 123 Business Centre Lagos SW1A 1AA</span></p>
-                     </li>
+                     </li>                    
                   </ul>
                </div>
                <div class="col-lg-2 col-sm-6">
@@ -42,8 +38,8 @@
                   <h5>Quick Links</h5>
                   <ul class="footer-address-list link-hover">
                      <li><a href="about-us.php">About Us</a></li>
-                     <li><a href="services.php">Our Services</a></li>
-                     <li><a href="portfolio">Our Portfolio</a></li>
+                     <li><a href="our-services.php">Our Services</a></li>
+                     <li><a href="our-portfolio.php">Our Portfolio</a></li>
                   </ul>
                </div>
             </div>
@@ -56,7 +52,7 @@
                   <div class="col-lg-12">
                      <div class="footer-social-media-icons">
                         <a href="javascript:void(0)" target="blank"><i class="fab fa-facebook"></i></a>
-                        <a href="javascript:void(0)" target="blank"><i class="fab fa-instagram"></i></a>
+                        <a href="https://instagram.com/flohigh.tech" target="blank"><i class="fab fa-instagram"></i></a>
                         <a href="javascript:void(0)" target="blank"><i class="fab fa-youtube"></i></a>
                      </div>
                      <div class="footer-">

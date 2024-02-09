@@ -2,7 +2,7 @@
 <html lang="en" class="no-js">
 <head>
 	<meta charset="utf-8"/>
-	<title>Flohigh Technology - Our Services</title>
+	<title>Flohigh Technology - Our Services</title> 
 	<meta name="description" content="Creative Agency, Marketing Agency Template">
 	<meta name="keywords" content="Creative Agency, Marketing Agency">
 	<meta name="author" content="rajesh-doot">
@@ -22,12 +22,12 @@
  </head>
  <body>
  	    <!--Start Header -->
-		 <header class="header-pr nav-bg-w main-header navfix fixed-top menu-white">
+		<header class="header-pr nav-bg-w main-header navfix fixed-top menu-white">
 			<div class="container-fluid m-pad">
 				<div class="menu-header">
 				<div class="dsk-logo">
 					<a class="nav-brand" href="./">
-						<img src="images/dark-logo.png" style="margin-left:-30px;" alt="Logos" class="mega-white-logo"/>
+						<img src="images/flohigh-logo.png" style="margin-left:-30px;" alt="Logos" class="mega-white-logo"/>
 						<img src="images/dark-logo.png" style="margin-left:-30px;" alt="Logo" class="mega-darks-logo"/>
 					</a>
 				</div>
@@ -100,7 +100,7 @@
                   </li>                 
                </ul>
             </nav>
-      </header>  
+      	</header>  
 		<!--End Header -->
 	
 		<!--Start sidebar -->    
@@ -283,8 +283,7 @@
 							<div class="col-lg-8">
 								<div class="common-heading ptag">
 									<span>We Deliver Our Best</span>
-									<h2>Why Choose Flohigh Technology</h2>
-									<p class="mb30">Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit.</p>
+									<h2>Why Choose Flohigh Technology</h2>									
 								</div>
 							</div>
 						</div>

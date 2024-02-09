@@ -199,7 +199,7 @@
                   <div class="service-sec-list srvc-bg-nx srcl2">
                      <img src="images/icons/brand.png" alt="service">
                      <h5 class="mb10" style="color:#D45F2E;">Branding Solutions</h5>                     
-                     <p style="color:white;">Establish a strong and consistent brand identity with our comprehensive branding services, including logo design, brand strategy, and visual identity development.</p>
+                     <p>Establish a strong and consistent brand identity with our comprehensive branding services, including logo design, brand strategy, and visual identity development.</p>
                   </div>
                </div>
             </div>
@@ -544,7 +544,7 @@
                         </div>
                         <div class="client-thumbs mt30">
                            <div class="media v-center">
-                              <div class="user-image bdr-radius"><img src="images/user-thumb/girl.jpg" alt="girl" class="img-fluid" /></div>
+                              <div class="user-image bdr-radius"><img src="images/client/profile-user.png" alt="girl" class="img-fluid" /></div>
                               <div class="media-body user-info v-center">
                                  <h5>Femi Collins,</h5>
                                  <p>Marketing Manager, <small> Global Tech Solutions</small></p>
@@ -558,7 +558,7 @@
                         </div>
                         <div class="client-thumbs mt30">
                            <div class="media v-center">
-                              <div class="user-image bdr-radius"><img src="images/user-thumb/girl.jpg" alt="girl" class="img-fluid" /></div>
+                              <div class="user-image bdr-radius"><img src="images/client/profile-user.png" alt="girl" class="img-fluid" /></div>
                               <div class="media-body user-info">
                                  <h5>Sarah Uche</h5>
                                  <p>CEO, <small>Tech Innovators Inc.,</small></p>
@@ -572,7 +572,7 @@
                         </div>
                         <div class="client-thumbs mt30">
                            <div class="media v-center">
-                              <div class="user-image bdr-radius"><img src="images/user-thumb/girl.jpg" alt="girl" class="img-fluid" /></div>
+                              <div class="user-image bdr-radius"><img src="images/client/profile-user.png" alt="girl" class="img-fluid" /></div>
                               <div class="media-body user-info">
                                  <h5>Fashola Stevens</h5>
                                  <p>Marketing Manager, <small>Prespay NG.</small></p>
@@ -602,7 +602,7 @@
       </section>
       <!--End Testinomial-->
 
-      
+
       <!--Start CTA-->
       <section class="cta-area pad-tb">
          <div class="container">
@@ -624,33 +624,7 @@
       </section>
       <!--End CTA-->
 
-      <!--Start Location-->
-      <section class="our-office pad-tb" style="margin-bottom:-200px;">
-         <div class="container">
-            <div class="row justify-content-center">
-               <div class="col-lg-8">
-                  <div class="common-heading">
-                     <span>Our Locations</span>
-                     <h2>Find us at</h2>
-                  </div>
-               </div>
-            </div>
-            <div class="row justify-content-center upset shape-numm">
-               <div class="col-lg-4 col-sm-12 shape-loc wow fadeInUp" data-wow-delay=".2s">
-                  <div class="office-card">
-                     <div class="skyline-img" data-tilt data-tilt-max="4" data-tilt-speed="1000">
-                        <img src="images/location/lagos.jpg" alt="New York" class="img-fluid" />
-                     </div>
-                     <div class="office-text">
-                        <h4>Lagos</h4>
-                        <p>31 Lekki Street, Lagos, Nigeria, 10021</p>                       
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-      <!--End Location-->
+      
 
       <!--Start Footer-->
          <?php include('footer.php'); ?>

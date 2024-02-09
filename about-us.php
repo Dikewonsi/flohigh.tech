@@ -408,38 +408,8 @@
       </div>
     </section>
     <!--End Team-->
-    <!--Start Location-->
-    <section class="our-office pad-tb">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-8">
-            <div class="common-heading">
-              <span>Our Locations</span>
-              <h2>Our Office</h2>
-            </div>
-          </div>
-        </div>
-        <div class="row justify-content-center">
-          <div class="col-lg-4 col-sm-6 shape-loc wow fadeIn" data-wow-delay=".2s">
-            <div class="office-card hoshd">
-              <div class="landscp">
-                <img src="images/location/lagos.jpg" alt="location" class="img-fluid" />
-              </div>
-              <div class="info-text-div">
-                <h4>Nigeria</h4>
-                <h6 class="mt10">Registered Office</h6>
-                <p>232, 21st East Street, Kamaraj Nagar, Jaipur, Rajasthan 303030</p>
-                <ul class="-address-list mt10">
-                  <li><a href="mailto:info@flohigh.tech"><i class="fas fa-envelope"></i> info@flohigh.tech</a></li>
-                  <li><a href="tel:+2349169768106"><i class="fas fa-phone-alt"></i>+234 916 976 8106</a> </li>
-                </ul>
-              </div>
-            </div>
-          </div>          
-        </div>
-      </div>
-    </section>
-    <!--End Location-->
+    
+    
     <!--Start Footer-->
         <?php include('footer.php'); ?>
     <!--End Footer-->

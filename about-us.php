@@ -22,7 +22,7 @@
   </head>
   <body>
     <!--Start Header -->
-    <header class="header-pr nav-bg-w main-header navfix fixed-top menu-white">
+      <header class="header-pr nav-bg-w main-header navfix fixed-top menu-white">
           <div class="container-fluid m-pad">
             <div class="menu-header">
               <div class="dsk-logo">
@@ -116,7 +116,7 @@
               <div class="bread-inner">
                 <div class="bread-menu">
                   <ul>
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><a href="#">About Us</a></li>
                   </ul>
                 </div>

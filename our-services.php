@@ -22,30 +22,31 @@
  </head>
  <body>
  	    <!--Start Header -->
-		 <header class="header-pr nav-bg-b main-header navfix fixed-top menu-white">
+		 <header class="header-pr nav-bg-w main-header navfix fixed-top menu-white">
 			<div class="container-fluid m-pad">
 				<div class="menu-header">
-				<div class="dsk-logo"><a class="nav-brand" href="./">
-					<img src="images/dark-logo.png" style="margin-left:-30px;" alt="Logos" class="mega-white-logo"/>
-					<img src="images/dark-logo.png" style="margin-left:-30px;" alt="Logo" class="mega-darks-logo"/>
+				<div class="dsk-logo">
+					<a class="nav-brand" href="./">
+						<img src="images/dark-logo.png" style="margin-left:-30px;" alt="Logos" class="mega-white-logo"/>
+						<img src="images/dark-logo.png" style="margin-left:-30px;" alt="Logo" class="mega-darks-logo"/>
 					</a>
 				</div>
 				<div class="custom-nav" role="navigation">
 					<ul class="nav-list">
 						<li>
-							<a href="index.php" style="color:#050748;" class="menu-links">Home</a>                        
+							<a href="index.php" class="menu-links">Home</a>                        
 						</li>
 						<li >
-							<a href="about-us.php" style="color:#050748;" class="menu-links">About Us</a>                        
+							<a href="about-us.php" class="menu-links">About Us</a>                        
 						</li>
 						<li >
-							<a href="our-services.php" style="color:#050748;" class="menu-links">Our Services</a>                       
+							<a href="our-services.php" class="menu-links">Our Services</a>                       
 						</li>
 						<li>
-							<a href="our-portfolio.php" style="color:#050748;" class="menu-links">Portfolio</a>                        
+							<a href="our-portfolio.php" class="menu-links">Portfolio</a>                        
 						</li>
 						<li>
-							<a href="contact-us.php" style="color:#050748;" class="menu-links">Contact Us</a>                        
+							<a href="contact-us.php" class="menu-links">Contact Us</a>                        
 						</li>
 					</ul>
 					<!-- mobile + desktop - sidebar menu- dark mode witch and button -->
